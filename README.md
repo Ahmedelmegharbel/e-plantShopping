@@ -2,8 +2,14 @@
 
 repository name: e-plantShopping
 
-Project name: Paradise Nursery Shopping Application
+Project name:
+E-Plant Shopping
 
-Application overview: The application interface will allow you to browse a variety of houseplants and add them to a shopping cart. The shopping cart feature lets you see all your items and their total cost. Your shopping cart should also allow you to adjust the number of items in the cart before checkout.
+- Paradise Nursery Shopping Application
+
+Application overview: E-Plant Shopping is an e-commerce web application for browsing and purchasing plants online.
 
 Application should have three pages: a landing page, a product listing page, and a shopping cart page.
+
+
+
